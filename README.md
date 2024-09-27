@@ -1,0 +1,2 @@
+# Peptide generator
+This is extraordinarily crude, but with the rationale that epitopes presented on MHC are 8 to 18 amino acids long, this script starts at AAAAAAAA and generates all peptide combinations (with the 22 proteinogenic amino acids) through to an 18aa pyrrolysine chain. Obviously no heed is paid to whether any such polypeptides can exist in nature.
